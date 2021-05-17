@@ -135,19 +135,17 @@
 
        Gary King and Langche Zeng. 1999a. "Logistic Regression in Rare
        Events Data," Department of Government, Harvard University,
-       http://GKing.Harvard.Edu.
+       https://gking.harvard.edu/files/abs/0s-abs.shtml.
 
        Gary King and Langche Zeng. 1999b. "Estimating Absolute, Relative,
        and Attributable Risks in Case-Control Studies," Department of
        Government, Harvard University, available from
-       http://GKing.Harvard.Edu.
+       https://gking.harvard.edu/files/abs/1s-abs.shtml.
 
 
  7. Where to obtain updates
 
-    The current version of RELOGIT is available at the following website:
-    http://gking.harvard.edu
-
+    The current version of RELOGIT is available on this github and at SSC.
 
  8. Sharing this program with others
 
